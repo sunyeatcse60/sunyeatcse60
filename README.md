@@ -56,19 +56,3 @@
   <img src="https://img.shields.io/badge/Decision_Making-2196F3?style=for-the-badge&logo=decision-making&logoColor=white" alt="Decision Making"/>
 </p>
 
-<!-- Competitive Programming -->
-## Competitive Programming
-- *Active on Platforms*: [Codeforces](https://codeforces.com/profile/sunyeat_cse60), [CodeChef](https://www.codechef.com/users/sunyeat_cse60), [LeetCode](https://leetcode.com/sunyeat_cse60/)
-- *Notable Competitions*: DIU Unlock the Algorithms Contest, ICPC
-
-<!-- Stats Section -->
-## Stats
-
-![Sunyeat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunyeat-cse60&show_icons=true&theme=radical&hide_title=false&hide=prs)
-
-<!-- Longest Streak Section -->
-## Longest Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sunyeat-cse60&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![Sunyeat's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunyeat-cse60&layout=compact&theme=radical)
