@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Sunyeat Islam Emon
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+Developer;Programmer;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Analyst;Web+Developer;Programmer;Lifelong+Learner)](https://git.io/typing-svg)
 
 <!-- Profile Visitors Count -->
 <a href="https://komarev.com/ghpvc/?username=sunyeat-cse60">
